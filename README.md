@@ -28,7 +28,7 @@ console.log("Let's build something amazing together! 🔥");
 
 ### 🌟 My Journey So Far
 
-Hey there! I'm **Pratyush Verma**, a passionate developer from the heart of India - **Indore, MP**! 🏛️ Just graduated from 12th grade and diving deep into the world of technology. I've mastered the **MERN Stack** and **TypeScript**, and now I'm working on some exciting projects that showcase my skills!
+Hey there! I'm **Pratyush Verma**, a passionate developer from the heart of India - **Indore, MP**! 🏛️ Just graduated from 12th grade and diving deep into the world of technology. I've learned the **MERN Stack** and **TypeScript**, and now I'm working on some exciting projects that showcase my skills!
 
 Currently on a mission to expand my horizons into **DevOps** and **Web3** technologies. Because why limit yourself when you can explore the entire tech universe? 🌌
 
