@@ -48,7 +48,7 @@ Currently on a mission to expand my horizons into **DevOps** and **Web3** techno
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cr4ck.j4ck&color=red&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=cr4ck-j4ck&color=red&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   
   <h3>🕷️ "With great code comes great responsibility!" 🕷️</h3>
   
